@@ -1,0 +1,12 @@
+# Ignore virtual environment
+rps_env311/
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Optional: ignore videos
+*.mp4
